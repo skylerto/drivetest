@@ -21,6 +21,10 @@ The topics I will go over in this document include:
 
 ## Preparations
 
+Make sure you know the vehicle you are driving. You should know at least how to turn
+on/use your headlights on, high beams on, wipers on, emergency break, four ways,
+signal light, AC/Heat, how to adjust your mirrors, seat, seatbelt.
+
 ## Driving
 ### Left turn
 ### Right turn
