@@ -7,3 +7,7 @@ task :spec do
   rescue LoadError
   end
 end
+
+task :console, :c do
+  exec('bin/console')
+end

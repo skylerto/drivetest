@@ -1,4 +1,4 @@
 # Parking
-require 'parking/parking'
+require_relative './parking/parking'
 
-require 'simple_iterator'
+require_relative 'simple_iterator'
