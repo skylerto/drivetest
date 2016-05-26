@@ -1,5 +1,3 @@
-
-
 require_relative './two_point'
 require_relative './three_point'
 require_relative './left_turn'
