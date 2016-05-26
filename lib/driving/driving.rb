@@ -1,7 +1,7 @@
 
 
-require_relative './2point'
-require_relative './3point'
+require_relative './two_point'
+require_relative './three_point'
 require_relative './left_turn'
 require_relative './right_turn'
 require_relative './switching_lanes'
