@@ -1,4 +1,3 @@
-module Parking
   module SimpleIterator
     ##
     # Get the next step, this is part of the module +Parking+
@@ -7,4 +6,3 @@ module Parking
       @how[@index]
     end
   end
-end

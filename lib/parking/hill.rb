@@ -1,6 +1,6 @@
 module Parking
   class Hill
-    include Parking::SimpleIterator
+    include SimpleIterator
 
     attr_accessor :how
     def initialize

@@ -1,4 +1,3 @@
-# Parking
+require_relative 'simple_iterator'
 require_relative './parking/parking'
 
-require_relative 'simple_iterator'

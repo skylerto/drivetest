@@ -1,6 +1,6 @@
 module Parking
   class Reverse
-    include Parking::SimpleIterator
+    include SimpleIterator
 
     attr_accessor :how
     def initialize

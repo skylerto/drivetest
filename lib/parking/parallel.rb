@@ -1,6 +1,6 @@
 module Parking
   class Parallel
-    include Parking::SimpleIterator
+    include SimpleIterator
 
     attr_accessor :how
 
