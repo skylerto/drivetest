@@ -1,4 +1,11 @@
 describe Parking do
+  it 'should give info on parking' do
+    info = "When marking make sure to use your indicator and check your mirrors and blind spots consistently. Watch out for pedestrians and passing cars.
+
+When parking, spacing is key. If you are parking near a curb make sure you are no more than 30 cm (12 inches) away from the curb. Also, for each type of parking remember they key spots."
+
+    expect(Parking::INFO).to eq(info)
+  end
   describe Parking::Parallel do
     it 'should know how to parallel park' do
       how = [
