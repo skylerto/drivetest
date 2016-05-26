@@ -26,7 +26,7 @@ The topics I will go over in this document include:
 
 ## Usage
 
-For usage information please checkout the API in [USEAGE.md](USEAGE.md), or the
+For usage information please checkout the API in [USAGE.md](USAGE.md), or the
 specification in [SPECIFICATION.md](SPECIFICATION.md).
 
 ## License
